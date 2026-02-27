@@ -32,10 +32,10 @@ Com ele, você consegue:
 
 ```bash
 # 1) Clonar o repositório
-git clone <URL_DO_REPOSITORIO>
+git clone calc3D
 
 # 2) Entrar na pasta
-cd calc3d
+cd calc3D
 
 # 3) Instalar dependências
 npm install
@@ -77,12 +77,15 @@ A aplicação será iniciada em ambiente local (normalmente em `http://localhost
 ### Tela da aplicação
 
 Light Mode
+
 ![Preview do Calc3D Pro](./assets/calc3D-print01.jpg)
 
 Dark Mode
+
 ![Preview do Calc3D Pro](./assets/calc3D-print02.jpg)
 
 Relatório PDF
+
 ![Preview do Calc3D Pro](./assets/calc3D-print03.jpg)
 
 ---
@@ -99,4 +102,5 @@ Relatório PDF
 ## 📄 Licença
 
 Este projeto está licenciado sob os termos da **MIT License**.
+
 Consulte o arquivo [`LICENSE`](./LICENSE.md) para mais detalhes.
